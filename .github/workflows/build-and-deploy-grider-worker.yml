@@ -1,4 +1,4 @@
-name: Build and Deploy API
+name: Build and Deploy Grider Worker
 on: 
   pull_request:
     branches:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build and Deploy Grider Worker
+    name: Build Grider Worker
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@master
