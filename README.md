@@ -5,7 +5,7 @@ https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide
 
 <br/>
 
-IN ALPHA / BETA
+IN { ALPHA || BETA }
 
 <br/>
 
@@ -167,17 +167,13 @@ nginxinc-kubernetes-ingress
 
 ### Install and setup HAProxy as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/ingress/haproxy/">here</a>.
 
-<br/>
-
-### [Create NginxInc Kubernetes Ingress Controller](https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/ingress/nginxinc-kubernets-ingress-install/)
-
+### Create NginxInc Kubernetes Ingress Controller as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/ingress/nginxinc-kubernets-ingress-install/">here</a>.
 
 <br/>
 
-### Run our ingress config on kubernetes cluster
+### Run our ingress config on local kubernetes cluster
 
 <br/>
-
 
 ```
 $ cat <<EOF | kubectl apply -f -
