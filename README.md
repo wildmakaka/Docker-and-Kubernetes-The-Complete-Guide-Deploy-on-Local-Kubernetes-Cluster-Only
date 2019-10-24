@@ -41,7 +41,7 @@ Prepare Dynamic NFS as <a href="https://sysadm.ru/linux/servers/containers/kuber
 ### Download codes from github
 
     $ cd ~/tmp
-    $ git clone https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide-Local-Kubernetes-Only
+    $ git clone https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide-Deploy-on-Local-Kubernetes-Cluster-Only
 
     $ cd Docker-and-Kubernetes-The-Complete-Guide-Local-Kubernetes-Only/kubernetes
 
