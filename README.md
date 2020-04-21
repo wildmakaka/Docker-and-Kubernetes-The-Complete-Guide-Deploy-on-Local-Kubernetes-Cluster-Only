@@ -22,9 +22,9 @@ IN { ALPHA || BETA }
 
 <br/>
 
-Prepare cluster and environment as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/prepared-cluster/">here</a>.
+Prepare cluster and environment as <a href="/devops/containers/kubernetes/kubeadm/vagrant-centos7-3-node-kubernetes-cluster/">here</a>.
 
-Prepare Dynamic NFS as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/persistence/dynamic-nfs-provisioning/">here</a>.
+Prepare Dynamic NFS as <a href="https://sysadm.ru//devops/containers/kubernetes/kubeadm/persistence/dynamic-nfs-provisioning/">here</a>.
 
 
 <br/>
@@ -165,9 +165,9 @@ nginxinc-kubernetes-ingress
 
 <br/>
 
-### Install and setup HAProxy as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/ingress/haproxy/">here</a>.
+### Install and setup HAProxy as <a href="https://sysadm.ru/devops/containers/kubernetes/kubeadm/ingress/haproxy/">here</a>.
 
-### Create NginxInc Kubernetes Ingress Controller as <a href="https://sysadm.ru/linux/servers/containers/kubernetes/kubeadm/ingress/nginxinc-kubernets-ingress-install/">here</a>.
+### Create NginxInc Kubernetes Ingress Controller as <a href="https://sysadm.ru/devops/containers/kubernetes/kubeadm/ingress/nginxinc-kubernets-ingress-install/">here</a>.
 
 <br/>
 
