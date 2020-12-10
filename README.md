@@ -1,11 +1,8 @@
-# Deploy application from video course [Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG] on local kubernetes cluster
+# Deploy application from video course [Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018] on local kubernetes cluster
 
 **Full version**:  
 https://github.com/marley-nodejs/Docker-and-Kubernetes-The-Complete-Guide
 
-<br/>
-
-IN { ALPHA || BETA }
 
 <br/>
 
@@ -250,12 +247,13 @@ EOF
 
 ![Application](/img/result-04.png?raw=true)
 
+<br/>
+
 ---
+
+<br/>
 
 **Marley**
 
-<a href="https://jsdev.org">jsdev.org</a>
-
-Any questions on eng: https://t.me/jsdev_org  
-Любые вопросы на русском: https://t.me/jsdev_ru
-
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
